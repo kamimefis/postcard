@@ -1,0 +1,73 @@
+body{
+    background-color: rgb(19, 20, 20);
+}
+#main{
+    width: 400px;
+    padding: 1px 1px 1px 1px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: auto;
+    margin-left: auto;
+    background-color: white;
+    font-family: 'Cormorant Upright', serif;
+    
+}
+#first{
+    width: 400px;
+}
+#h1{
+    background-color: white;
+    height: 70px;
+    float: left;
+    padding-left: 10px;
+}
+img{
+    width: 60px;
+    height: 60px;
+    float: right;
+    padding-right: 10px;
+}
+#image{
+    background-color: white;
+    height: 70px;
+}
+
+#second{
+    background-color: white;
+    height: 140px;
+    margin-top: 1px;
+    padding: 1px 1px 1px 1px;
+}
+#p{
+    background-color: white;
+    width: 200px;
+    height: 138px;
+    float: left;
+    
+}
+input[type= text]{
+    font-family: 'Cormorant Upright', serif;
+    width: 40%;
+    padding: 5px 10px;
+    border: none;
+    box-sizing: border-box;
+    border-bottom: 2px solid darkgray;
+    float: left;
+    
+}
+#button{
+    color: black;
+    font-family: 'Cormorant Upright', serif;
+    background-color: lightgrey;
+    border-style: none;
+    padding: 3px 7px 7px 10px;
+    
+    
+}
+#footer{
+    width: 400px;
+    height: 50px;
+    margin-top: 1px;
+    background-color: white;
+    text-align: center;
+}
